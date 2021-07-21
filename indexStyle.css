@@ -10,3 +10,19 @@
 .main {
   background-color: rgb(253, 218, 224);
 }
+
+/* leather part  */
+
+.leather-part {
+  background-color: rgb(246, 248, 248);
+  border-radius: 1rem;
+}
+.leather-part .leather-details {
+  text-align: justify;
+}
+
+/* knife part  */
+
+.kinfe-card {
+  border-radius: 2rem;
+}
