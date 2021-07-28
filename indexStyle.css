@@ -26,3 +26,41 @@
 .kinfe-card {
   border-radius: 2rem;
 }
+
+/* contact us part  */
+
+.contact-us-part {
+  background-color: rgb(192, 143, 152);
+}
+.text-area-style {
+  resize: none;
+}
+.address-link {
+  color: rgb(72, 122, 153);
+}
+.address-link:hover {
+  color: rgb(38, 73, 95);
+}
+.address-link .address-icon {
+  color: rgb(38, 73, 95);
+}
+.social-icon {
+  color: rgb(62, 117, 151);
+  font-size: 1.5rem;
+}
+.social-icon:hover {
+  color: rgb(42, 78, 100);
+}
+
+/* copy right part  */
+
+.copy-right {
+  padding: 1.5rem;
+  background-color: rgb(170, 129, 136);
+}
+.copy-right p {
+  color: aliceblue;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0;
+}
